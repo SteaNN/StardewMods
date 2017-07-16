@@ -1,0 +1,21 @@
+{
+  "Keyboard": {
+    "ToggleLookup": "F1",
+    "ToggleLookupInFrontOfPlayer": "",
+    "ScrollUp": "Up",
+    "ScrollDown": "Down",
+    "ToggleDebug": ""
+  },
+  "Controller": {
+    "ToggleLookup": "",
+    "ToggleLookupInFrontOfPlayer": "",
+    "ScrollUp": "",
+    "ScrollDown": "",
+    "ToggleDebug": ""
+  },
+  "ScrollAmount": 160,
+  "HideOnKeyUp": false,
+  "CheckForUpdates": true,
+  "ShowDataMiningFields": false,
+  "EnableTileLookups": false
+}
